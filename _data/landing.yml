@@ -12,7 +12,7 @@
   tpl: career.html
   css: timeline
 
-- id: Programming Languages
+- id: skills
   i18n: nav.skills
   name: Programming Languages
   tpl: skills.html
