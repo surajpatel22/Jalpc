@@ -1,15 +1,15 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: 
-    i18n: 
-  desc:
-    detail: 
-    i18n: 
-  date:
-    detail:
-    i18n: 
-  job:
-    detail:
-    i18n: 
-  icon:
+- name: test
+    detail: test1
+    i18n: test2
+  desc: test3
+    detail: test4
+    i18n: test5
+  date: test6
+    detail: test7
+    i18n: test8
+  job: test9
+    detail: test10
+    i18n: test11
+  icon: test12
