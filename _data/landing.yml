@@ -26,9 +26,8 @@ t# index page sections
 
 - id: blog
   i18n: nav.blog
-  name: All My Projects
+  name: More Projects
   tpl: blog.html
-  page: blog/
   css: testimonials navy-section
 
 - id: links
