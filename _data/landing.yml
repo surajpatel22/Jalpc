@@ -20,13 +20,13 @@
 
 - id: projects
   i18n: nav.projects
-  name: Projects
+  name: Featured Projects
   tpl: projects.html
   css: project
 
 - id: blog
   i18n: nav.blog
-  name: More Projects
+  name: All Projects
   tpl: blog.html
   css: testimonials navy-section
 
