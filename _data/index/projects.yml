@@ -20,9 +20,9 @@
   img: /static/assets/img/landing/android.png
   desc: These are some android apps I made (lessons + game)
 
-- name: First Robotics
+- name: First Robotics Competition
   i18n: frc
   gh_user: MarkhamCommunityRobotics
   repo: 
   img: /static/assets/img/landing/waterloo.png
-  desc: The github for my FRC team (#6866 The Space Invaders)
+  desc: The github for my FRC team (#6866 The Space Invaders), \n where the CAD models and Java code I contributed to are (most of it is not public) 
