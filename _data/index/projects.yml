@@ -22,6 +22,6 @@
 
 - name: First Robotics Competition
   i18n: frc
-  url: https://github.com/MarkvilleCommunityRobotics
+  url: https://github.com/MarkhamCommunityRobotics
   img: /static/assets/img/landing/FRC.png
   desc: The github for my FRC team (#6866 The Space Invaders), \n where the CAD models and Java code I contributed to are (most of it is not public) 
