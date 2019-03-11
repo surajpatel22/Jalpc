@@ -9,8 +9,7 @@
 
 - name: CCC
   i18n: cpython
-  gh_user: surajpatel22
-  repo: My-Projects
+  url: https://github.com/surajpatel22/My-Projects/tree/master/ccc
   img: /static/assets/img/landing/waterloo.png
   desc: These are my CCC pracice and actual subissions
 
