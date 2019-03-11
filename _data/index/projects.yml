@@ -17,7 +17,7 @@
   i18n: google
   url: https://github.com/surajpatel22/My-Projects/tree/master/android%20apps
   img: /static/assets/img/landing/android.png
-  desc: These are some android apps I made (lessons + game)
+  desc: These are some android apps I made (lessons + games)
 
 - name: First Robotics Competition
   i18n: frc
