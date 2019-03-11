@@ -5,17 +5,24 @@
   i18n: jalpc
   url: https://github.com/surajpatel22/My-Projects/tree/master/Abstract%20Datatypes
   img: /static/assets/img/landing/datastructure.png
-  desc: This is some of the abstract datatypes I have made in java while furthering my education.
+  desc: Some abstract datatypes I made while furthering my education
 
 - name: CCC
   i18n: cpython
   gh_user: surajpatel22
   repo: My-Projects
   img: /static/assets/img/landing/waterloo.png
-  desc: These are my CCC pracice and actual subissions.
+  desc: These are my CCC pracice and actual subissions
 
 - name: Android Apps
   i18n: google
   url: https://github.com/surajpatel22/My-Projects/tree/master/android%20apps
   img: /static/assets/img/landing/android.png
   desc: These are some android apps I made (lessons + game)
+
+- name: First Robotics
+  i18n: frc
+  gh_user: MarkhamCommunityRobotics
+  repo: 
+  img: /static/assets/img/landing/waterloo.png
+  desc: The github for my FRC team (#6866 The Space Invaders)
