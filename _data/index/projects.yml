@@ -26,7 +26,7 @@
   img: /static/assets/img/landing/FRC.png
   desc: The github for my FRC team (#6866 The Space Invaders), where the CAD models and Java code I contributed to are (most of it is not public) 
 
-- name: Abstract Datatypes
+- name: Flash
   i18n: jalpc
   url: https://github.com/surajpatel22/My-Projects/tree/master/flash
   img: /static/assets/img/landing/flash.png
