@@ -11,11 +11,11 @@
   i18n: cpython
   gh_user: surajpatel22
   repo: My-Projects
-  img: /static/assets/img/landing/google.png
-  desc: These are my ccc pracice and actual subissions.
+  img: /static/assets/img/landing/waterloo.png
+  desc: These are my CCC pracice and actual subissions.
 
 - name: Android Apps
   i18n: google
   url: https://github.com/surajpatel22/My-Projects/tree/master/android%20apps
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/android.png
   desc: These are some android apps I made (lessons + game)
