@@ -30,3 +30,10 @@
   url: https://github.com/surajpatel22/My-Projects/tree/master/flash
   img: /static/assets/img/landing/flash.png
   desc: Some flash games (and lessons) I made with Action Script 2
+
+
+- name: Assembly
+  i18n: jalpc
+  url: https://github.com/surajpatel22/My-Projects/tree/master/assembly
+  img: /static/assets/img/landing/8085.png
+  desc: Some Assembly code (for the intel 8085 chip architecture) I made while furthering my education.
