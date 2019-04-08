@@ -35,5 +35,5 @@
 - name: Assembly
   i18n: jalpc
   url: https://github.com/surajpatel22/My-Projects/tree/master/assembly
-  img: /static/assets/img/landing/intel8085.png
+  img: static/assets/img/landing/intel8085.png
   desc: Some Assembly code (for the intel 8085 chip architecture) I made while furthering my education.
