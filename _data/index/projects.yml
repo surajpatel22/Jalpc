@@ -13,11 +13,11 @@
   img: /static/assets/img/landing/waterloo.png
   desc: These are my CCC pracice and actual subissions
 
-- name: Android Apps
+- name: Brick Breaker
   i18n: google
-  url: https://github.com/surajpatel22/My-Projects/tree/master/android%20apps
+  url: https://play.google.com/store/apps/details?id=com.Pawmocca.BreakerDuel
   img: /static/assets/img/landing/android.png
-  desc: These are some android apps I made (lessons + games)
+  desc: An Andriod game I published
 
 - name: First Robotics Competition
   i18n: frc
@@ -29,7 +29,7 @@
   i18n: jalpc
   url: https://github.com/surajpatel22/My-Projects/tree/master/flash
   img: /static/assets/img/landing/flash.png
-  desc: Some flash games (and lessons) I made with Action Script 2
+  desc: Some flash games (and lessons) I made with Action Script 2.0
 
 
 - name: Assembly
