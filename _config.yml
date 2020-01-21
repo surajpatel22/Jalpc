@@ -2,7 +2,7 @@
 
 # Website settings
 title: Suraj Patel
-description: I am a Honours Computer Science Student at the University of Waterloo,\nlooking for the opportunity to apply my education in the real world through a co-op job.
+description: I am a UWaterloo CS Student looking to apply my knowledge at a coop
 keywords: Suraj,Patel,resume,surajpatel22,waterloo,coop,intern,computer,cs
 baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://surajpatel22.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
