@@ -7,11 +7,11 @@
   img: /static/assets/img/landing/datastructure.png
   desc: Some abstract datatypes I made while furthering my education
 
-- name: CCC
+- name: Platformer Game
   i18n: cpython
-  url: https://github.com/surajpatel22/My-Projects/tree/master/ccc
-  img: /static/assets/img/landing/waterloo.png
-  desc: These are my CCC pracice and actual subissions
+  url: https://github.com/surajpatel22/My-Projects/tree/master/2p%20platformer%20vs%20mouse%20game
+  img: /static/assets/img/landing/Mario.png
+  desc: A platformer I made without any libraries
 
 - name: Brick Breaker
   i18n: google
