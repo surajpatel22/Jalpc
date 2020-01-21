@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Java, C, Python, C++, Assembly, C#, Turing (Pascal), Actionscript 2.0, Racket (Lisp), Bash     #GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
-percentage: 92, 70, 90, 30, 70, 40, 96, 20, 96, 10
+aspects: Java, C++, Actionscript 2.0, C, Assembly, C#, Turing (Pascal), Python, Racket (Lisp)     #GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
+percentage: 92, 30, 20, 70, 70, 40, 96, 90, 96
