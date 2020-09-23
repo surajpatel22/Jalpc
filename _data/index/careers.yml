@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: 'FIRST Robotics Competition - District Finalists test'
+    detail: 'FIRST Robotics Competition - District Finalists'
     i18n: test2
   desc: 
     detail: My <a href="https://mcrobotics.ca/">team</a> made it to district finalists at the FRC District Event hosted at Ryerson.
