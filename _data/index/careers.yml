@@ -15,6 +15,20 @@
   icon: fa-plus-square
 
 - name:
+    detail: Canadian Senior Mathematics Competition - Top 3%
+    i18n: test2
+  desc: 
+    detail: I participated in the Canadian Senior Mathematics Competition by the University of Waterloo and achieved a rank of top 3% (according to stats on their <a href="https://www.cemc.uwaterloo.ca/contests/past_contests/2018/2018CxMCResults.pdf">website</a>).
+    i18n: test4
+  date:
+    detail: june 2019
+    i18n: test6
+  job:
+    detail: '<a href="https://www.cemc.uwaterloo.ca/contests/csimc.html">CSMC</a>'
+    i18n: test8
+  icon: fa-plus-square
+
+- name:
     detail: Started Education at University of Waterloo - Computer Science Coop
     i18n: test2
   desc: 
