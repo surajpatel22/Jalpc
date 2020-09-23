@@ -1,8 +1,8 @@
-careers section data
-if you don't have language feature(language.yml is empty), ignore "i18n" items
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-   detail: FIRST Robotics Competition - District Finalists
-   i18n: test2
+    detail: FIRST Robotics Competition - District Finalists
+    i18n: test2
   desc: 
     detail: My team made it to district finalists at the FRC District Event hosted at Ryerson
     i18n: test4
@@ -13,4 +13,3 @@ if you don't have language feature(language.yml is empty), ignore "i18n" items
     detail: Team #6866 [The Space Invaders]
     i18n: test8
   icon: fa-plus-square
-
