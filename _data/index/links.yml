@@ -8,3 +8,8 @@
   first_name:
   desc: The Space Invaders (Team 6866)
   website: http://mcrobotics.ca
+
+- last_name: Resume
+  first_name:
+  desc: Resume along with work history + transcript
+  website: '/static/assets/Suraj Patel Resume [2A] -External.pdf'
