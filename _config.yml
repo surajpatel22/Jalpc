@@ -2,7 +2,7 @@
 
 # Website settings
 title: Suraj Patel
-description: I'm a 2A UWaterloo CS Student looking to make an impact at a 2nd coop
+description: 'I'm a 2A UWaterloo CS Student looking to make an impact at a 2nd coop'
 keywords: Suraj,Patel,resume,surajpatel22,waterloo,coop,intern,computer,cs
 baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://surajpatel22.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
