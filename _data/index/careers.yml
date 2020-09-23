@@ -4,12 +4,41 @@
     detail: FIRST Robotics Competition - District Finalists
     i18n: test2
   desc: 
-    detail: My team made it to district finalists at the FRC District Event hosted at Ryerson
+    detail: My <a href="https://mcrobotics.ca/">team</a> made it to district finalists at the FRC District Event hosted at Ryerson.
     i18n: test4
   date:
     detail: March 2019
     i18n: test6
   job:
     detail: '<a href="https://mcrobotics.ca/">FRC Team #6866 [The Space Invaders]</a>'
+    i18n: test8
+  icon: fa-plus-square
+
+- name:
+    detail: Started Education at University of Waterloo - Computer Science Coop
+    i18n: test2
+  desc: 
+    detail: I started my education as part of the Honours Computer Science Coop Program at the University of Waterloo.
+    i18n: test4
+  date:
+    detail: Sept 2019
+    i18n: test6
+  job:
+    detail: '<a href="https://www.uwaterloo.ca/">University of Waterloo</a>'
+    i18n: test8
+  icon: fa-plus-square
+
+
+- name:
+    detail: Software Developer - Coop
+    i18n: test2
+  desc: 
+    detail: I developed software that aided the work flow of people in other departments, including but not linited to a Windows Service on a server and an ETL process for on an Oracle database. Check out my resume for more details.
+    i18n: test4
+  date:
+    detail: May - August 2020
+    i18n: test6
+  job:
+    detail: '<a href="https://www.attorneygeneral.jus.gov.on.ca/english/family/pgt/overview.php">OPGT [Misistry of the Attorney General]</a>'
     i18n: test8
   icon: fa-plus-square
