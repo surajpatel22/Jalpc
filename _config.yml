@@ -1,8 +1,8 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: 'Suraj Patel'
-description: 'I'm a 2A UWaterloo CS Student looking to make an impact at a 2nd coop'
+title: Suraj Patel
+description: I'm a 2A UWaterloo CS Student looking to make an impact at a 2nd coop
 keywords: Suraj,Patel,resume,surajpatel22,waterloo,coop,intern,computer,cs
 baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://surajpatel22.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
@@ -28,7 +28,7 @@ author: #change following line to your information
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I'm a UWaterloo CS Student looking to apply my knowledge at my 2nd coop  # Describe yourself.
+  desc: I'm a 2A UWaterloo CS Student looking to make an impact during a 2nd coop
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
