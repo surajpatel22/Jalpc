@@ -10,6 +10,6 @@
     detail: March 2019
     i18n: test6
   job:
-    detail: ['FRC Team #6866 [The Space Invaders]'](https://mcrobotics.ca/)
+    detail: <a href="https://mcrobotics.ca/">'FRC Team #6866 [The Space Invaders]'</a>
     i18n: test8
   icon: fa-plus-square
