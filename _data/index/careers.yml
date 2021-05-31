@@ -47,12 +47,27 @@
     detail: Software Developer - Coop
     i18n: test2
   desc: 
-    detail: I developed software that aided the work flow of people in other departments, including but not linited to a Windows Service on a server and an ETL process for on an Oracle database. Check out my resume for more details.
+    detail: I developed software that aided the work flow of people in other departments, including but not linited to a C# Windows Service on a server and an ETL process for on an Oracle database. Check out my resume for more details.
     i18n: test4
   date:
     detail: May - August 2020
     i18n: test6
   job:
     detail: '<a href="https://www.attorneygeneral.jus.gov.on.ca/english/family/pgt/overview.php">OPGT [Misistry of the Attorney General]</a>'
+    i18n: test8
+  icon: fa-plus-square
+  
+  
+- name:
+    detail: Full Stack Developer - Coop
+    i18n: test2
+  desc: 
+    detail: I developed, refactored, and debugged various features and pages of a web service for healthcare workers on a large ASP.NET codebase and Azure in an agile, remote development enviornmnet.
+    i18n: test4
+  date:
+    detail: May - August 2020
+    i18n: test6
+  job:
+    detail: '<a href="https://www.okrx.ca/">OkRx (Start-Up)</a>'
     i18n: test8
   icon: fa-plus-square
